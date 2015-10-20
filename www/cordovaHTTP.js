@@ -68,7 +68,7 @@ var http = {
 
 module.exports = http;
 
-if (true) {
+if (false) {
     angular.module('cordovaHTTP', []).factory('cordovaHTTP', function($timeout, $q) {
         function makePromise(fn, args, async) {
             var deferred = $q.defer();
