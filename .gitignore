@@ -1,2 +1,7 @@
 tags
 .zedstate
+.idea
+/idea/*
+/.idea
+/.idea/*
+
